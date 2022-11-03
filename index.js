@@ -6,13 +6,13 @@ document.querySelectorAll("button")[i].addEventListener("click", function(){
 } );
 }
 var obj = {
-    "B": "sounds/tom-1.mp3",
-    "H": "sounds/tom-2.mp3",
-    "A": "sounds/tom-3.mp3",
-    "J": "sounds/tom-4.mp3",
-    "A": "sounds/snare.mp3",
-    "'": "sounds/crash.mp3",
-    "S": "sounds/kick-bass.mp3"
+    "D": "sounds/tom-1.mp3",
+    "R": "sounds/tom-2.mp3",
+    "U": "sounds/tom-3.mp3",
+    "M": "sounds/tom-4.mp3",
+    "M": "sounds/snare.mp3",
+    "E": "sounds/crash.mp3",
+    "R": "sounds/kick-bass.mp3"
 }
 const audio = new Audio("sounds/tom-1.mp3")
 const audio1 = new Audio("sounds/kick-bass.mp3")
